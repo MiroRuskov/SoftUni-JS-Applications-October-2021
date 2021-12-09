@@ -1,4 +1,4 @@
-![JS-Applications-October-2021](https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2021/blob/main/_README/JS-Applications-JSApplications.jpg)
+![JS-Applications-October-2021](https://github.com/MiroRuskov/SoftUni-JS-Applications-October-2021/blob/main/_README/JSApplications.jpg)
 
 ![JS-Applications-October-2021](https://github.com/MiroRuskov/SoftUni-JS-Applications-October-2021/blob/main/_README/JS-Applications-Certificate.png)
 
