@@ -1,6 +1,6 @@
-![JS-Applications-October-2019](https://github.com/BoykoPetevBoev/JS-Applications-October-2019/blob/master/_README/JSApplications.jpg)
+![JS-Applications-October-2021](https://github.com/BoykoPetevBoev/SoftUni-JS-Applications-October-2021/blob/main/_README/JS-Applications-JSApplications.jpg)
 
-![JS-Applications-October-2019](https://github.com/BoykoPetevBoev/JS-Applications-October-2019/blob/master/_README/JS-Applications-Certificate.png)
+![JS-Applications-October-2021](https://github.com/MiroRuskov/SoftUni-JS-Applications-October-2021/blob/main/_README/JS-Applications-Certificate.png)
 
 ---
 
